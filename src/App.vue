@@ -4,9 +4,6 @@
 import TheMarquee from "./components/TheMarquee.vue"
 
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-components: {
-  TheMarquee
-}
 </script>
 
 <template>
