@@ -8,7 +8,7 @@ import TheMarquee from "./components/TheMarquee.vue"
 
 <template>
   <main class="main">
-    <h1>Test</h1>
+    <h1>FEEST!</h1>
     <TheMarquee />
   </main>
 </template>
@@ -16,10 +16,20 @@ import TheMarquee from "./components/TheMarquee.vue"
 <style lang="scss">
 $pink: deeppink;
 
+h1 {
+  padding-top: 5rem;
+  font-size: 3rem;
+  font-weight: 900;
+  text-align: center;
+}
+
 .main {
   flex-grow: 1;
   background: $pink;
   overflow: hidden;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
 }
 </style>

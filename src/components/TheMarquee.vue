@@ -26,6 +26,7 @@ export default {
 
 <style lang="scss">
 .marquee {
+  padding-top: 3rem;
   position: relative;
   overflow: hidden;
   --offset: 20vw;
