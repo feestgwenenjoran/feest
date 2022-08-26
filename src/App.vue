@@ -31,8 +31,8 @@ import TheFAQ from "./components/TheFAQ.vue"
 $pink: deeppink;
 
 h1 {
-  padding-top: 5rem;
-  font-size: 3rem;
+  padding-top: 7rem;
+  font-size: 5rem;
   font-weight: 900;
   text-align: center;
 }
@@ -45,6 +45,7 @@ h1 {
 
 .main {
   flex-grow: 1;
+  padding: 1rem;
   background: $pink;
   overflow: hidden;
   min-height: 100vh;

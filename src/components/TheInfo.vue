@@ -1,4 +1,5 @@
 <template>
+  <h2 class="heading">Wat waar wanneer??!?</h2>
   <div class="wrapper">
     <div class="selectors">
       <p
@@ -55,8 +56,11 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.heading {
+  margin-top: 10rem;
+  margin-bottom: 1rem;
+}
 .wrapper {
-  margin-top: 3rem;
   display: flex;
   gap: 2rem;
 }
@@ -67,7 +71,11 @@ export default {
   padding: 0.5rem 0;
 }
 .selector {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
+  &:hover {
+    color: #ffbe0b;
+    cursor: pointer;
+  }
   &.selected {
     color: yellow;
     position: relative;
