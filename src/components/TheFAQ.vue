@@ -16,6 +16,15 @@ export default {
     return {
       faqItems: [
         {
+          question: "Leuk! Ik ben erbij! Wat moet ik nu doen?",
+          answer:
+            "Even een berichtje sturen naar Gwendolyn of Joran dat je erbij bent",
+        },
+        {
+          question: "Mag mijn +1 ook mee?",
+          answer: "Waarschijnlijk wel. Laat het even weten aan ons",
+        },
+        {
           question: "Waarom is het op zondagmiddag en niet op zaterdagavond?",
           answer: "Omdat dat zo uitkwam. Lekker gek",
         },
@@ -35,10 +44,6 @@ export default {
           question: "Willen jullie een cadeau?",
           answer:
             "Liever ervaringen dan spullen, of een bijdrage voor het feest",
-        },
-        {
-          question: "Mag mijn +1 ook mee?",
-          answer: "Waarschijnlijk wel",
         },
         {
           question: "Waar ligt Culemborg helemaal?",
