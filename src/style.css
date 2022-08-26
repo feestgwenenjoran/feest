@@ -27,7 +27,7 @@ body {
 }
 
 #app {
-  max-width: 50rem;
   display: flex;
   justify-content: start;
+  overflow: hidden;
 }
