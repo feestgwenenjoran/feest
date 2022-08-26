@@ -1,5 +1,5 @@
 <template>
-  <h1>The FAQ</h1>
+  <h1>Best wel vaak gestelde vragen</h1>
 </template>
 
 <script>

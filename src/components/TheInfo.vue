@@ -89,8 +89,8 @@ export default {
 
 .infobox {
   width: 10rem;
-  background-color: #ffbe0b;
-  color: #3a86ff;
+  background-color: $orange;
+  color: $blue;
   padding: 1rem;
   font-weight: bold;
 }

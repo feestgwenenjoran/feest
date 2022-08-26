@@ -28,8 +28,6 @@ import TheFAQ from "./components/TheFAQ.vue"
 </template>
 
 <style lang="scss">
-$pink: deeppink;
-
 h1 {
   padding-top: 7rem;
   font-size: 5rem;
