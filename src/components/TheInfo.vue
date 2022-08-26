@@ -22,6 +22,12 @@
         :class="{ selected: selectedItem === 'location' }"
       >
         Gelderlandfabriek Culemborg
+        <a
+          class="link"
+          target="blank"
+          href="https://www.degelderlandfabriek.nl/"
+          >(link)</a
+        >
       </p>
     </div>
     <div class="infobox">

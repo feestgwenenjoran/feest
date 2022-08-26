@@ -1,3 +1,17 @@
 $pink: deeppink;
 $orange: #ffbe0b;
 $blue: #3a86ff;
+
+.link {
+  text-decoration: none;
+
+  &:visited,
+  &:link,
+  &:active {
+    color: $orange;
+  }
+
+  &:hover {
+    color: $blue;
+  }
+}

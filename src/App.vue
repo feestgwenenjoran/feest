@@ -27,7 +27,7 @@ import TheFAQ from "./components/TheFAQ.vue"
   </div>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 h1 {
   padding-top: 7rem;
   font-size: 5rem;
