@@ -25,7 +25,7 @@ export default {
         },
         {
           question: "Wat zijn dit voor kleuren mijn ogen doen pijn",
-          answer: "deeppink, #ffbe0b, #3a86ff, yellow, black en white",
+          answer: "deeppink, #ffbe0b, #3a86ff, black en white",
         },
         {
           question: "Wordt er wel gedanst?",

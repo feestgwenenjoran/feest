@@ -18,6 +18,7 @@ export default {}
 .names {
   margin-top: 7rem;
   font-size: 2rem;
+  line-height: 2rem;
 }
 .list {
   margin-left: 1rem;
@@ -31,5 +32,6 @@ export default {}
 .end {
   margin-top: 3rem;
   font-size: 2rem;
+  line-height: 2rem;
 }
 </style>

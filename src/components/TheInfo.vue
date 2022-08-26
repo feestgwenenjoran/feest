@@ -69,26 +69,40 @@ export default {
 .wrapper {
   display: flex;
   gap: 2rem;
+
+  @media screen and (max-width: 42em) {
+    flex-direction: column;
+  }
 }
 .selectors {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   padding: 0.5rem 0;
+
+  @media screen and (max-width: 42em) {
+    gap: 1.5rem;
+  }
 }
 .selector {
   font-size: 1.5rem;
   &:hover {
-    color: #ffbe0b;
+    color: $orange;
     cursor: pointer;
   }
   &.selected {
-    color: yellow;
+    color: $orange;
     position: relative;
     &::after {
       content: "\25B6";
       position: absolute;
       right: -1.5rem;
+
+      @media screen and (max-width: 42em) {
+        flex-direction: column;
+        content: "\25BC";
+        right: -1rem;
+      }
     }
   }
 }
@@ -99,5 +113,9 @@ export default {
   color: $blue;
   padding: 1rem;
   font-weight: bold;
+
+  @media screen and (max-width: 42em) {
+    width: max(80%, 10rem);
+  }
 }
 </style>
