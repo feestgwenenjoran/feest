@@ -19,7 +19,7 @@ import TheFAQ from "./components/TheFAQ.vue"
       <!-- <ThePictures /> -->
       <TheIntro />
       <TheInfo />
-      <!-- <TheCountdown /> -->
+      <TheCountdown />
       <!-- <TheMarquee /> -->
       <!-- <TheYeah /> -->
       <TheFAQ />

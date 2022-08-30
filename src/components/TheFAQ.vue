@@ -18,11 +18,15 @@ export default {
         {
           question: "Leuk! Ik ben erbij! Wat moet ik nu doen?",
           answer:
-            "Even een berichtje sturen naar Gwendolyn of Joran dat je erbij bent",
+            "Even een berichtje sturen naar Gwendolyn of Joran dat je erbij bent. Het liefst voor 6 september",
         },
         {
           question: "Mag mijn +1 ook mee?",
           answer: "Waarschijnlijk wel. Laat het even weten aan ons",
+        },
+        {
+          question: "Ik kan helaas niet, Wat moet ik nu doen?",
+          answer: "Ook dan is het voor ons fijn om dat te weten",
         },
         {
           question: "Waarom is het op zondagmiddag en niet op zaterdagavond?",
