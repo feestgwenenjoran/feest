@@ -10,6 +10,7 @@
     "deploy": "npm run build && push-dir --dir=dist --branch=main --cleanup"
   },
   "dependencies": {
+    "@vueuse/head": "^0.7.9",
     "vue": "^3.2.37"
   },
   "devDependencies": {
