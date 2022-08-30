@@ -26,7 +26,8 @@ export default {
         },
         {
           question: "Ik kan helaas niet, Wat moet ik nu doen?",
-          answer: "Ook dan is het voor ons fijn om dat te weten",
+          answer:
+            "Ook graag even doorgeven, dan weten we dat er meer sla en wortels voor ons overblijft",
         },
         {
           question: "Waarom is het op zondagmiddag en niet op zaterdagavond?",
@@ -47,7 +48,7 @@ export default {
         {
           question: "Willen jullie een cadeau?",
           answer:
-            "Liever ervaringen dan spullen, of een bijdrage voor het feest",
+            "We zijn natuurlijk al superblij als je erbij bent! Wil je toch iets geven, dan liever ervaringen dan spullen, of een bijdrage voor het feest",
         },
         {
           question: "Waar ligt Culemborg helemaal?",
@@ -56,7 +57,7 @@ export default {
         {
           question: "Is er eten?",
           answer:
-            "Ja, ook al is het precies tussen lunch en diner. Er zijn veganistische hapjes voor de lekker",
+            "Ja, ook al is het precies tussen lunch en diner, dus verwacht geen uitgebreid buffet. Er zijn veganistische hapjes voor de lekker. Konijnenvooeeeeer heujjjj!",
         },
         {
           question: "Is er ook nog iets leuks te doen?",

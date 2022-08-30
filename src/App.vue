@@ -16,8 +16,8 @@ import TheFAQ from "./components/TheFAQ.vue"
   <div class="container">
     <main class="main">
       <h1>FEEST!</h1>
-      <!-- <ThePictures /> -->
       <TheIntro />
+      <ThePictures />
       <TheInfo />
       <TheCountdown />
       <!-- <TheMarquee /> -->
