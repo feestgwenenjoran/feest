@@ -25,7 +25,7 @@ export default {
           answer: "Waarschijnlijk wel. Laat het even weten aan ons",
         },
         {
-          question: "Ik kan helaas niet, Wat moet ik nu doen?",
+          question: "Ik kan helaas niet. Wat moet ik nu doen?",
           answer:
             "Ook graag even doorgeven, dan weten we dat er meer sla en wortels voor ons overblijft",
         },
